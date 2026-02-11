@@ -1,3 +1,5 @@
-Client ID: 62f912aca6b14c5a9ac4cb46e071041d
-
+Client ID: **check .bashrc**
 Client Secret: **check .bashrc**
+
+Token URL: https://oauth.fatsecret.com/connect/token
+Base API: https://platform.fatsecret.com/rest/
